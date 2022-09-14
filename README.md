@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Irina! A future Junior developer with an unstoppable curiosity and eagerness to explore 🌎!
+## Hi there 👋 I'm Irina! A Junior full-stack web&app developer with an unstoppable curiosity and eagerness to explore the 🌎!
 
 - 🔭 I’m currently working on WBS Coding School.
 - 📚 I’m currently learning everything that I possibly can about coding.
